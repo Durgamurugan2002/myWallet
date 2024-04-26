@@ -1,0 +1,22 @@
+div{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 10px;
+    font-family: 'Times New Roman', Times, serif;
+   
+}
+
+h1{
+    color: black;
+    font-size: 30px;
+    font-weight: bold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+body{
+  background-color: rgb(246, 184, 69);
+  background-image: url(C:/Users/ELCOT/Desktop/E-commerce/frontenddesign/public/images.png);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: 45%;
+}
